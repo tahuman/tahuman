@@ -22,6 +22,6 @@ You can click the Preview link to take a look at your changes.
   
 #### 最近
 - AI駆動開発
-- AIをレビューとして開発
+- AIをレビュアーとして開発
 - AIを使わないで開発
 - etc
